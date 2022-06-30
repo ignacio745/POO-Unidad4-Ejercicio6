@@ -1,0 +1,59 @@
+{
+    "__class__": "ManejadorProvincias",
+    "provincias": [
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Juan",
+                "capital": "San Juan",
+                "habitantes": 5000,
+                "departamentos": 20
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San Luis",
+                "capital": "San Luis",
+                "habitantes": 5000,
+                "departamentos": 30
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Mendoza",
+                "capital": "Mendoza",
+                "habitantes": 100000,
+                "departamentos": 30
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Formosa",
+                "capital": "Formosa",
+                "habitantes": 10000,
+                "departamentos": 10
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Buenos Aires",
+                "capital": "La Plata",
+                "habitantes": 500000,
+                "departamentos": 30
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "R\u00edo Negro",
+                "capital": "Viedma",
+                "habitantes": 40000,
+                "departamentos": 50
+            }
+        }
+    ]
+}
